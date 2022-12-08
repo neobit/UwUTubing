@@ -27,7 +27,7 @@ streamProgress = 0
 # Program / Programa ---------------------------------------------
 
 def Window(): 
-    photo = CTkImage(Image.open("Logo.png"), size=(314, 222))
+    photo = CTkImage(Image.open("logo.png"), size=(314, 222))
     imagem = CTkButton(master=app, image=photo, state="disabled", text='', fg_color='#ffffff')
     imagem.place(x=1,y=40,width=614,height=232)
     imagem["justify"] = "center"
