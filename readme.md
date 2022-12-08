@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://imgur.com/4vrVIfQ.png" alt="Logo" width="471" height="333">
+    <img src="https://imgur.com/rAUtjmM.png" alt="Logo" width="471" height="333">
 </h1>
 
 ## About The Project
