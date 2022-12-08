@@ -30,7 +30,7 @@ Although I don't believe in senpai intellectual property... the purpose of this 
  
 ## Roadmap
 
-- [ ] Executable Release
+- [x] Executable Release
 - [ ] MP3 Conversor
 - [ ] Playlist Download
 

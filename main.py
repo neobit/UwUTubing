@@ -12,6 +12,7 @@ from PIL import Image
 customtkinter.set_default_color_theme("dark-blue")
 app = customtkinter.CTk()
 
+app.wm_iconbitmap('logo.ico')
 app.geometry("600x500") 
 app.resizable(False, False) 
 app.title("UwUTuber - Kawaidesu youtube UwUloader") 
