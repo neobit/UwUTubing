@@ -15,7 +15,7 @@ Why download videos from youtube?:
 
 Although I don't believe in senpai intellectual property... the purpose of this software is not to facilitate distribution of pirated material. Use with caution, I don't want to see you in trouble. ／(˃ᆺ˂)＼
 
-[Download the latest version](https://github.com/neobit/UwUTubing)
+[Download the latest version](https://github.com/neobit/UwUTubing/releases)
 
 ---
 
