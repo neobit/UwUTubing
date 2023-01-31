@@ -31,6 +31,8 @@ Although I don't believe in senpai intellectual property... the purpose of this 
 ## Roadmap
 
 - [x] Executable Release
+- [ ] Fix executable assignature (Remove Virus Alert)
+- [ ] Download progress bar
 - [ ] MP3 Conversor
 - [ ] Playlist Download
 
