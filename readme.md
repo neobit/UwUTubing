@@ -32,9 +32,9 @@ Although I don't believe in senpai intellectual property... the purpose of this 
 
 - [x] Executable Release
 - [ ] Fix executable assignature (Remove Virus Alert)
-- [ ] Download progress bar
-- [ ] MP3 Conversor
-- [ ] Playlist Download
+- [x] Download progress bar
+- [x] MP3 Conversor
+- [ ] Run on browser
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
