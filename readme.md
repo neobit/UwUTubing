@@ -4,7 +4,6 @@
 
 ## About The Project
 ---
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Hi Senpai!! UwUTubing is a simple software made in Python to help you download your favorite media from Youtube. Using the link of the youtube video you want to download in the program and defining the location of your computer you can download as many videos as you want. >__<
 
@@ -22,21 +21,5 @@ Although I don't believe in senpai intellectual property... the purpose of this 
 ## Used Resources
 
 * [PyTube](https://pypi.org/project/pytube/)
-* [CustomTkinter](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Tkinter](https://docs.python.org/3/library/tkinter.html)
-* [Pillow](https://pypi.org/project/Pillow/)
-
----
- 
-## Roadmap
-
-- [x] Executable Release
-- [ ] Fix executable assignature (Remove Virus Alert)
-- [x] Download progress bar
-- [x] MP3 Conversor
-- [ ] Run on browser
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [product-screenshot]: https://imgur.com/eOl4Rxk.png
